@@ -30,15 +30,14 @@ The game includes the following hidden words:
 
 ## Getting Started
 
-To run the game, make sure you have the required assembly environment set up. Then, execute the program. Follow the on-screen instructions to play the game.
+To run the game, make sure you have the required irvine assembly environment set up. Then, execute the program. Follow the on-screen instructions to play the game.
+
+To setup the Visual Studio 2019 on your desktop or laptop. Watch this video
+https://www.youtube.com/watch?v=4XH_iEehGZ0
 
 ## Acknowledgments
 
 This project was created as a fun programming exercise in assembly language.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 Enjoy the Word Hunt Game!
 
